@@ -1,0 +1,47 @@
+{
+
+ "name": "ebook-frontend-project",
+
+ "version": "0.0.1",
+
+ "description": "Ejemplo de desarrollo de aplicación web c
+
+on JavaScript",
+
+ "bugs": {
+
+ "url": "https://github.com/carlosazaustre/ebook-fronten
+
+d-project/issues",
+
+ "email": "cazaustre@gmail.com"
+
+ },
+
+ "license": "MIT",
+
+ "author": {
+
+ "name": "Carlos Azaustre",
+
+ "email": "cazaustre@gmail.com",
+
+ "url": "http://carlosazaustre.es"
+
+ },
+
+ "repository": {
+
+ "type": "git",
+
+ "url": "https://github.com/carlosazaustre/ebook-fronten
+
+d-project"
+
+ },
+
+ "dependencies": {},
+
+ "devDependencies": {}
+
+}
