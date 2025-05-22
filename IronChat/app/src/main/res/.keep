@@ -1,0 +1,6 @@
+# This file is intentionally left blank to ensure the 'res' directory is tracked by Git.
+# Android resource files (layouts, drawables, values, etc.) should be placed in subdirectories here.
+# For example:
+# - res/layout/activity_main.xml
+# - res/drawable/my_icon.png
+# - res/values/strings.xml
